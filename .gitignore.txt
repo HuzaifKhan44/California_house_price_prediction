@@ -1,0 +1,43 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and Outputs
+*.log
+*.out
+
+# Model and Data Files
+model.pkl
+*.h5
+*.hdf5
+*.ckpt
+*.joblib
+*.pkl
+*.sav
+*.npy
+*.npz
+
+# CSV and dataset files (optional - keep only if datasets are large)
+*.csv
+*.tsv
+*.json
+*.xlsx
+
+# IDE Settings
+.vscode/
+.idea/
+
+# GitHub LFS
+.gitattributes
